@@ -1,0 +1,8 @@
+[Added Associations]
+text/plain=nvim.desktop;
+
+[Default Applications]
+text/plain=nvim.desktop
+
+[Removed Associations]
+text/plain=kitty.desktop;

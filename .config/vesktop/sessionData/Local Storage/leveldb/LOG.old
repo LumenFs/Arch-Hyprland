@@ -1,0 +1,6 @@
+2024/07/13-17:49:38.526 70b Reusing MANIFEST /home/lumenfs/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/07/13-17:49:38.536 70b Recovering log #47
+2024/07/13-17:49:38.537 70b Reusing old log /home/lumenfs/.config/vesktop/sessionData/Local Storage/leveldb/000047.log 
+2024/07/13-17:50:38.973 70c Level-0 table #51: started
+2024/07/13-17:50:38.975 70c Level-0 table #51: 44714 bytes OK
+2024/07/13-17:50:38.976 70c Delete type=0 #47
